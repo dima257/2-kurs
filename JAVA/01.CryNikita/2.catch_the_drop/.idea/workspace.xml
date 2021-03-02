@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e094606-9284-43e5-8ac2-5f1b094dde35" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../lesson2/3. catch_the_drop/out/production/catch_the_drop/lesson2/catch_the_drop/GameWindow$GameField.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson2/3. catch_the_drop/out/production/catch_the_drop/lesson2/catch_the_drop/GameWindow$GameField.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2/3. catch_the_drop/out/production/catch_the_drop/lesson2/catch_the_drop/GameWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson2/3. catch_the_drop/out/production/catch_the_drop/lesson2/catch_the_drop/GameWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2/3. catch_the_drop/src/lesson2/catch_the_drop/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson2/3. catch_the_drop/src/lesson2/catch_the_drop/GameWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.catch_the_drop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.catch_the_drop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/catch_the_drop/lesson3b/catch_the_drop/GameWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/catch_the_drop/lesson3b/catch_the_drop/GameWindow$1.class" afterDir="false" />
-    </list>
+    <list default="true" id="9e094606-9284-43e5-8ac2-5f1b094dde35" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +14,7 @@
     <favorites_list name="catch_the_drop" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -110,7 +103,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../2-kurs/JAVA/01.CryNikita" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
